@@ -1,2 +1,2 @@
 # Number-Game
-It is a game by using python
+It is a game using python
